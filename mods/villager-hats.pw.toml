@@ -1,0 +1,13 @@
+name = "Villager Hats"
+filename = "villager-hats-1.6.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vghf63Ct/versions/txeahyoE/villager-hats-1.6.2%2B1.20.jar"
+hash-format = "sha1"
+hash = "27e9576dc2bb740033425352eb25ac1583a6a2d9"
+
+[update]
+[update.modrinth]
+mod-id = "vghf63Ct"
+version = "txeahyoE"

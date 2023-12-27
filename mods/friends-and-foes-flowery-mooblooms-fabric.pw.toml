@@ -1,0 +1,13 @@
+name = "Friends&Foes - Flowery Mooblooms (Fabric)"
+filename = "friendsandfoes-flowerymooblooms-fabric-mc1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ECOSu6pa/versions/L3vFNtdV/friendsandfoes-flowerymooblooms-fabric-mc1.20.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "ae8b04bbe7a6379bff28061eb707f80275554f1d"
+
+[update]
+[update.modrinth]
+mod-id = "ECOSu6pa"
+version = "L3vFNtdV"

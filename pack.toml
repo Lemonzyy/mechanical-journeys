@@ -1,0 +1,14 @@
+name = "Mechanical Journeys"
+author = "Lemonzy"
+version = "1.2.1"
+description = "Create sophisticated machines in an exciting, immersive Vanilla+ world full of adventurous challenges!"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f8cfd0f2aa3db2f174398cffe0c1d1869b8386532e2a26f421f50d158321255"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.1"
