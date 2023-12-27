@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "91e0b88ddb7c83790ade2fac07acf67341bae6d5cc93ec0e6434c56d7b791106"
+hash = "a38756b006a19b14d37d344a49cf37dae91102db8bc0a444485624e1d79d9a94"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "50abf36f551ddb6136a633ae3498ce67a94121d25a552646dd94c469e830eb31"
+hash = "abc3b92dccd2e787b56780ddf5e2a1b4e7b7822c96ed129f4f2174faf5b5a941"
 metafile = true
 
 [[files]]
@@ -341,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
 
 [[files]]
