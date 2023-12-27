@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4edd1355c4ffd33c391b6ae91d69f589c08e4b699b63788e59340e0a032ff348"
+hash = "60cb0d61b96d01cfc30dcbd38b43f74bc4a139bb0e57877afd5637eb5527f24c"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "03ef689c3c008fdc1215f1cfa4f78783d390adfde90176a2b580a2363f2ec4e1"
+hash = "7b37f7cd1bc867390fd57616a33dde1240ae9ada74919a4e8ba20e997b15da54"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "e9e775472c347b438f19a2529c9424aee1e7887140cdf1544c4416ca8e2aef17"
+hash = "85016d351a849b182efa8a31c3b38cc622e0166f2fe60634c65e63ea05782bb2"
 metafile = true
 
 [[files]]
