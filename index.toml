@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
+hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
-hash = "da70e08f6ed19b62b544bbf09b64968c161151b149f4f1231073ad2f29697471"
+hash = "3d791706553bb0cb251622b32011ff581d1526c1bb8eb9f9e27b647ab89b7a1a"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ hash = "4b183eb41d43eea0c7ea03b0a53c1abd82ae6955250297ff369257337db36d93"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+hash = "737ca5abc02cb75c7dfd305f4da32c6b3a00a0812877742d832edb86b56e1f02"
 metafile = true
 
 [[files]]
