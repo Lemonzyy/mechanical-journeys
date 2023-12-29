@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
+hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
 metafile = true
 
 [[files]]
@@ -260,12 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "9916903175abd5cbb0232340993177b402182ee325e2ae7521f83209355f3bc7"
+hash = "1d7f6c2b43875ee8eaef6dbeede3a69767c5caac3deeafd99bc4559cd4cfa3d3"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "b1acd1d65f463e25a6400f3c45ee66f8faa7d678427214b8928736a7e81d3ecf"
+hash = "1de9383ec20ab4dab18bf82ee299f7d45cf8ebf3b3d52da95ac5fd0c57188b5e"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
+hash = "545588787cd62823cd17222abe2f8928488796c13ff6abf4e15b695afd44f2d2"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "2cf67aa9e98992b421307028521683f244e5d0662fbb36818d21403e46a7da13"
+hash = "00ecd73ec7acb98e6ca81b1edbb13ce04d6379174a52a89562333f49fab6572f"
 metafile = true
 
 [[files]]
