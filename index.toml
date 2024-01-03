@@ -10,7 +10,7 @@ hash = "e1184be87ec55658c1b09f5ac36195a007fa7051e5497711bac40b2618e7f7e5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+hash = "b4678dbaba3e9e963abb6926458ea36d6967df0eebebeee3f901ef67c0ee7927"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "abc3b92dccd2e787b56780ddf5e2a1b4e7b7822c96ed129f4f2174faf5b5a941"
+hash = "d96f9a8dbfc7973f9ca7c9fd6237766fd7e50799d64f24781011ad9500923c59"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "31fdd1e2499f295c5806bac01987129f54c0960fdee8dfba5123ac6432bc8f9b"
+hash = "8c1f4fac353ed89f93298fe111719c75c8599bc828b594105373a313a5f02557"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0243e5340ac8a37ec903b58411be61e4dcab50468ddca99827bba49acbbec190"
+hash = "18367cc70788ea339b4cb15a1f1437642467dfcf547235a982d821c2c273926e"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "19b66c624b16ef3616b9ab37f18b630f04088d18f4982a0d7df9204b55e31353"
+hash = "a4fc7e1049b3b97b3232262bbccf6e21d9247881e50664fee416ed069f0626ff"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "545588787cd62823cd17222abe2f8928488796c13ff6abf4e15b695afd44f2d2"
+hash = "868aa19c7221f238aac07e7280889a2d1e1a60726ecd0fe98a77d6766f7cd3f5"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "85016d351a849b182efa8a31c3b38cc622e0166f2fe60634c65e63ea05782bb2"
+hash = "4c4c1a7f197fbb0b18a38a3897e0f3f2ebae2e40b129e1da8618fc25c4ef092a"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f8555ccd1d7a77c815e1b6bc198abc48a9e69527f8715c83ae1f017437dd73af"
+hash = "7efcbaccb72892523f0f46a88c9337cb5f52daad1aaec99a747abb44527df379"
 metafile = true
 
 [[files]]
