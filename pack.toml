@@ -1,13 +1,13 @@
 name = "Mechanical Journeys"
 author = "Lemonzy"
-version = "1.2.3"
+version = "1.2.4"
 description = "Create sophisticated machines in an exciting, immersive Vanilla+ world full of adventurous challenges!"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9ec00dac7a74163e53ee03413ff93ada417fa68d8ce36f0eb132af377ce04daf"
+hash = "fb5bc666b2438b3ffca95b77cfd539fbbdf3816bf30f75ba62513d1b8502eb2a"
 
 [versions]
 fabric = "0.15.3"

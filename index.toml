@@ -69,6 +69,11 @@ hash = "af0c7ee46afc4a5dcce1d6d01ef668d18d1dbe5560f5d03e2608f55cc0163b33"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "a150b7bb5c7307affaae3c54f613ec22c3bacfdeee8d68ad9953d2481b26a371"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8c1f4fac353ed89f93298fe111719c75c8599bc828b594105373a313a5f02557"
+hash = "5c77827ed3d6f0553faeae1aa8fb42bdcd30ffdc8db9768c291448ed01d6a702"
 metafile = true
 
 [[files]]
@@ -474,6 +479,11 @@ hash = "4c418d76137ed1a34686a7f667348c97b5f457b28ae1469152aa35f44c4e9a1f"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "badc0b9411d65dca5904930414c12777077cb7ad339763cb74866b971751bb7e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -500,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "868aa19c7221f238aac07e7280889a2d1e1a60726ecd0fe98a77d6766f7cd3f5"
+hash = "ac382724d3a8b53d26fdb752e5798c1544b36f8e8f0fe167e297d1e2032d7fcc"
 metafile = true
 
 [[files]]
@@ -535,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
 metafile = true
 
 [[files]]
@@ -565,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "d65613a8ae574869c9bb2406a9b7976e42a8c48d43958e6a52bcccf7a5a8c9ed"
+hash = "7d86c68314998b0854f35128a1a2c45ca8c7e6233a12d39885f76fd12441b6d5"
 metafile = true
 
 [[files]]
@@ -649,6 +659,11 @@ hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "faf566d493d95427c171fa3ef90bdc4e894e7ac4d5b772ed0b11b5f083273647"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -666,11 +681,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "00ecd73ec7acb98e6ca81b1edbb13ce04d6379174a52a89562333f49fab6572f"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
 
 [[files]]
@@ -742,10 +752,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "4b183eb41d43eea0c7ea03b0a53c1abd82ae6955250297ff369257337db36d93"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
